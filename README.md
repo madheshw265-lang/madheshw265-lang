@@ -144,9 +144,13 @@ A machine learning project designed to score and identify return-related risks.
 <img src="https://img.shields.io/badge/LinkedIn-Madhesh.G-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
+---
+
 <a href="https://maddy-s-port-folio.lovable.app">
 <img src="https://img.shields.io/badge/My%20Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome" />
 </a>
+
+---
 
 <a href="https://github.com/madheshw265-lang">
 <img src="https://img.shields.io/badge/GitHub-madheshw265--lang-black?style=for-the-badge&logo=github" />
